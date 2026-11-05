@@ -33,7 +33,7 @@ Full Stack .NET Developer transitioning into Data Engineering and AI Engineering
 
 Hands-on PySpark coding exercises and interview solutions.
 
-[View Repository](https://github.com/merlinsavarimuthu-art/pyspark-solutions)
+[View Repository](https://github.com/merlinsavarimuthu-art/pyspark)
 
 ---
 
